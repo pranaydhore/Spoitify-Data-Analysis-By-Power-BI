@@ -77,5 +77,3 @@ With Power BI and DAX, we can uncover deep insights into the world of music stre
 
 ---
 **![Spotify Project Poster](Spotify.jpg)**
-**![Spotify Project Poster](Spotify.jpg)**
-**![Spotify Project Poster](Spotify.jpg)**
