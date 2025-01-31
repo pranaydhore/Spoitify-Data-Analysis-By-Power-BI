@@ -76,4 +76,4 @@ Spotify's dataset can be accessed using various APIs, web scraping, or publicly 
 With Power BI and DAX, we can uncover deep insights into the world of music streaming, providing valuable information for artists, record labels, and marketers. This project helps in understanding what makes a song popular and how music trends evolve over time. By leveraging data analytics, we can predict future trends, optimize music recommendations, and enhance the overall listener experience.
 
 ---
-**![Spotify Project Poster](spotify_poster.jpg)**
+**![Spotify Project Poster](Spotify.jpg)**
